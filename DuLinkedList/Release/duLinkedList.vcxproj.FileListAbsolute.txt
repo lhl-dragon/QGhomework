@@ -1,0 +1,2 @@
+D:\QGstudy\QG\fir\DuLinkedList\Release\duLinkedList.exe
+D:\QGstudy\QG\first\DuLinkedList\Release\duLinkedList.exe

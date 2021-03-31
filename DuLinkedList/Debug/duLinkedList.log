@@ -1,0 +1,6 @@
+﻿  DuLinkedList.cpp
+  func.cpp
+  main.cpp
+  正在生成代码...
+D:\QGstudy\QG\fir\DuLinkedList\DuLinkedList.cpp(105): warning C4715: “DeleteList_DuL”: 不是所有的控件路径都返回值
+  duLinkedList.vcxproj -> D:\QGstudy\QG\fir\DuLinkedList\Debug\duLinkedList.exe
