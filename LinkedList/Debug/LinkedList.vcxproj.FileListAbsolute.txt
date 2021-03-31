@@ -1,0 +1,2 @@
+D:\QGstudy\QG\fir\LinkedList\Debug\LinkedList.exe
+D:\QGstudy\QG\fir\LinkedList\Debug\LinkedList.pdb

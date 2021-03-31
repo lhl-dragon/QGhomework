@@ -1,0 +1,13 @@
+﻿  func.cpp
+D:\Windows Kits\10\Include\10.0.18362.0\ucrt\corecrt_math.h(967,1): warning C4005: “OVERFLOW”: 宏重定义
+D:\QGstudy\QG\first\LinkedList\LinkedList.h(5): message : 参见“OVERFLOW”的前一个定义
+D:\QGstudy\QG\first\LinkedList\func.cpp(39,12): warning C4473: “scanf_s”: 没有为格式字符串传递足够的参数
+D:\QGstudy\QG\first\LinkedList\func.cpp(39,12): message : 占位符和其参数预计 2 可变参数，但提供的却是 1 参数
+D:\QGstudy\QG\first\LinkedList\func.cpp(39,12): message : 缺失的可变参数 2 为格式字符串“%11s”所需
+D:\QGstudy\QG\first\LinkedList\func.cpp(39,12): message : 此参数用作缓冲区大小
+  正在生成代码
+  0 of 21 functions ( 0.0%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    0 functions had inline decision re-evaluated but remain unchanged
+  已完成代码的生成
+  LinkedList.vcxproj -> D:\QGstudy\QG\first\LinkedList\Release\LinkedList.exe
